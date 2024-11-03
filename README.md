@@ -1,10 +1,12 @@
 ## Hi there 👋
 ### 👋 Társis Fortes Tavares aqui :)
-📊Atualmente Analista de Gestão Corporativo, entusiasta de tecnologia, especialmente IA  e Dados🤖📊. Atualmente estudando Python 🐍 e ciência de dados.
+📊Atualmente Analista de Gestão Corporativo.
+Entusiasta de tecnologias: IA  e Dados🤖📊. 
+Atualmente estudando Python 🐍 e ciência de dados.
  
--🔧**Engenheiro Mecânico** por formação; **Pós-graduado em Adm**🎓 e **Tecnólogo em eletrônica automotiva🚗**.
+- 🔧**Engenheiro Mecânico** por formação; **Pós-graduado em Adm**🎓 e **Tecnólogo em eletrônica automotiva🚗**.
 - 🎶Apaixonado por **música nas horas vagas**
-- 📚Atualmente mais focado em: **MBA-Data Science e Inteligência Artificial - FIAP**
+- 📚Atualmente mais focado em um: **MBA-Data Science e Inteligência Artificial - FIAP - Paulista**
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
  </div> 
