@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👋 Társis Fortes Tavares aqui :)
-📊Atualmente Analista de Gestão Corporativo.
+📊Analista de Gestão da Qualidade Corporativo.
 Entusiasta de tecnologias: IA  e Dados🤖📊. 
 Estudando Python 🐍 e ciência de dados.
  
